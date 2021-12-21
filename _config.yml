@@ -1,0 +1,8 @@
+title: Bosonau.github.io
+description: my user page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
